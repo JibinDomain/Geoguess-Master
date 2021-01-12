@@ -64,6 +64,10 @@ export default defineComponent({
           text: '5',
           value: 5,
         },              
+        {
+          text: '6',
+          value: 6,
+        },
       ]
     })
 
